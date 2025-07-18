@@ -2,10 +2,6 @@
 
 I'm a passionate software engineer with experience in a variety of technologies. I'm currently pursuing my degree in Informatics at Indiana University, where I focus on software development, web design, and AI policy.
 
-### Technologies & Skills
-
-
-
 
 ## Connect with Me
 
